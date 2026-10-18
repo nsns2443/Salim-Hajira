@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">হাজিরা ও খরচ</string>
-    <!-- ★★★ নিচের লাইনে আপনার Apps Script ওয়েব অ্যাপের লিংক (/exec দিয়ে শেষ) বসান ★★★ -->
-    <string name="app_url" translatable="false">https://script.google.com/macros/s/আপনার_ডিপ্লয়_আইডি/exec</string>
+    <!-- অ্যাপ এই লিংকটি খুলবে। লিংক বদলাতে হলে নিচের লাইনে বদলান -->
+    <string name="app_url" translatable="false">https://ksahajira.blogspot.com/</string>
 </resources>
